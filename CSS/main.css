@@ -23,7 +23,7 @@ body {
     background-color: var(--Verydarkblue); 
     padding: 25px;
     width: 340px;
-    height: 570px;
+    height: 580px;
     border-radius: 10px;
 }
 .one {
@@ -78,6 +78,7 @@ p {
     display: flex;
     align-items: center;
     font-size: 17px;
+    margin-top: 20px;
 }
 span {
     color: var(--White);
